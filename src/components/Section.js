@@ -28,7 +28,6 @@ const Wrap = styled.div`
   scroll-snap-type: y mandatory;
   height: 100vh;
   width: 100vw;
-  background: orange;
   background-image: url("/images/Model-S.jpg");
   background-size: cover;
   background-position: center;
